@@ -63,13 +63,6 @@ THE SOFTWARE.
     <tag>${scmTag}</tag>
   </scm>
 
-  <distributionManagement>
-    <site>
-      <id>github-pages</id>
-      <url>gitsite:git@github.com/jenkinsci/maven-site.git:core</url>
-    </site>
-  </distributionManagement>
-
   <issueManagement>
     <system>jira</system>
     <url>https://issues.jenkins-ci.org/browse/JENKINS/component/15593</url>
